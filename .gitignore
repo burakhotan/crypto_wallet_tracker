@@ -1,0 +1,4 @@
+.env
+latest_tx_hashes.json
+watched_wallets.txt
+__pycache__
