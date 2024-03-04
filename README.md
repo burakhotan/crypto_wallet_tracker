@@ -42,9 +42,9 @@ You'll also need to obtain API keys for Etherscan and BSCscan, as well as a Tele
 4. Start the bot: `python main.py`
 
 ## Authors
-- github.com/burakhotan
-- github.com/sarp-u
-- github.com/umutyesildal
+- www.github.com/burakhotan
+- www.github.com/sarp-u
+- www.github.com/umutyesildal
 
 ## Disclaimer
 
